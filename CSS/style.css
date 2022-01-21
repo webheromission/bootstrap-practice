@@ -4,27 +4,7 @@
 body {
     font-family: 'Poppins', sans-serif;
 }
-
-header {
-    border: 3px solid red;
-    
-}
-.banner {
-    border: 3px solid green;
-    background-color: rgba(231, 124, 172, 0.096);
-}
-
-.card {
-    background-color: rgba(128, 128, 128, 0.151);
+.colorbg {
+    background-color: rgba(141, 124, 124, 0.267);
     border-radius: 20px;
-}
-.womenjacket {
-    margin-top: 30px;
-    min-height: 150vh;
-    border: 5px solid red;
-    margin-bottom: 30px;
-}
-.menjacket {
-    border: 5px solid goldenrod;
-    margin-top: 50px;
 }
